@@ -1,0 +1,1 @@
+1.Para poder ejecutar el siguiente codigo por favor tenga instalado numpy en su dispositivo 
